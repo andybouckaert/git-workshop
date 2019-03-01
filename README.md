@@ -37,4 +37,4 @@ aanpassing file
         git branche "branche"
             README is naar branche veranderd ipv master
         git checkout branche
-    
+    als aanpassing doen
