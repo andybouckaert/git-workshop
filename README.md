@@ -24,4 +24,7 @@ Directory
     git commit -m 'first commit'
         -m = message
     git log
-
+Uit editor esc -> :q! verlaat je de editor
+uit git log
+    HEAD -> branche
+    Master -> waar sta je in de history
