@@ -28,6 +28,19 @@ Uit editor esc -> :q! verlaat je de editor
 uit git log
     HEAD -> branche
     Master -> waar sta je in de history
+<<<<<<< HEAD
 test commit
 pushen naar de github   
     git push
+=======
+
+aanpassing file
+    git clone 'file'
+    git commit -m 'geef tekst mee wat je veranderd'
+    git log
+        toont de verschillende veranderingen  
+        git branche "branche"
+            README is naar branche veranderd ipv master
+        git checkout branche
+    als aanpassing doen
+>>>>>>> branch
