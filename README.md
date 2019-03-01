@@ -29,3 +29,5 @@ uit git log
     HEAD -> branche
     Master -> waar sta je in de history
 test commit
+pushen naar de github   
+    git push
