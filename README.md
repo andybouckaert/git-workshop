@@ -15,6 +15,13 @@ Directory
         //geef status van de situatie
         git status -s
         ?? -> wat doe ik ermee
-        A? -> file is ge-add ? modified
+        A? -> file is ge-add ? modified na gesaved
         AM -> file is ge-add en modified
-        
+     git add README.md  
+     git status -s
+        A  enkel -> enkel gesaved
+    git add . -> alles adden
+    git commit -m 'first commit'
+        -m = message
+    git log
+
